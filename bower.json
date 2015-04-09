@@ -1,0 +1,44 @@
+{
+	"name": "sumi-list",
+	"version": "1.0.0",
+	"homepage": "https://github.com/rainersu/list",
+	"authors": [
+		{
+			"name": "Rainer Su",
+			"email": "rainersu@foxmail.com",
+			"url": "http://cn.linkedin.com/in/rainersu",
+			"qq": "2627001536"
+		}
+	],
+	"description": "A sortable List Class with a library of preset sorting algorithms. ",
+	"main": "dist/sumi-list.js",
+	"keywords": [
+		"array",
+		"list",
+		"sort",
+		"order",
+		"shuffle",
+		"reorder",
+		"algorithm",
+		"javascript"
+	],
+	"license": "MIT",
+	"ignore": [
+		"_",
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"/doc",
+		"/src",
+		"/doc.json",
+		"/Gruntfile.js",
+		"test",
+		"tests",
+		"logs",
+		"*.log"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rainersu/list.git"
+	}
+}
